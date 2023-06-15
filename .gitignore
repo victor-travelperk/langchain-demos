@@ -35,3 +35,9 @@ ENV/
 # Miscellaneous
 .DS_Store
 *.pyc
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Chromadb
+.chroma

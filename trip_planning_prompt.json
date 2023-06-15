@@ -1,0 +1,13 @@
+{
+    "input_variables": [
+        "city",
+        "travel_month",
+        "activities_i_like"
+    ],
+    "output_parser": null,
+    "partial_variables": {},
+    "template": "Question: I'm planning a trip to {city}, I'm travelling in the month of {travel_month}. Give me some actitivies I can do, I specially like to {activities_i_like}. Answer like a carismatic tour guide. Answer:",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
